@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
 
-# Nota importante: la página dada en el URL se mantiene por "wikipedia", por lo que puede ser actualizada en el futurowhich might be updated in future, por lo que los datos actuales pueden ser diferentes
+# Nota importante: la página dada en el URL se mantiene por "wikipedia", por lo que puede ser actualizada en el futuro; en consecuencia, los datos actuales pueden ser diferentes
 # ¡Realiza la extracción de datos desde cero utilizando etiquetas HTML / nombres de clases!
 
 
