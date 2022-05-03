@@ -1,5 +1,14 @@
-# PRO-C128-Project-Solution
+# PRO_C128_SP_V1
 
-* IMP NOTE: The page at the given URL is maintained by "wikipedia", which might be updated in future, hence the current dataset might be different.
+* Nota importante: la página dada en el URL se mantiene por "wikipedia", por lo que puede ser actualizada en el futurowhich might be updated in future, por lo que los datos actuales pueden ser diferentes
+* ¡Realiza la extracción de datos desde cero utilizando etiquetas HTML / nombres de clases o índice!
+  
+- - - - - - - - - - - - 
+  
+EXTRACCIÓN DE DATOS WEB - 2  
+  
+Documento del proyecto.  
+Plantilla del código.  
+  
+### Texto en inglés: PRO-C128-Project-Solution
 
-* Perform data scraping from scratch with correct HTML Tags/Class Names or Index!
